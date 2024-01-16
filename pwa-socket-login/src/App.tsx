@@ -1,3 +1,5 @@
+//simple login + web scoket, but all in one page, no routing
+
 import { useState, useEffect } from "react";
 import whatswareLogo from "./assets/whatsware.svg";
 import "./App.css";

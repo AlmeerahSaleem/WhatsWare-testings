@@ -1,3 +1,5 @@
+//added all code (except login) to one app.tsx, skipped routing
+
 import { useState, useEffect } from "react";
 import whatswareLogo from "./assets/whatsware.svg";
 import "./App.css";

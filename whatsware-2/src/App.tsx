@@ -1,3 +1,5 @@
+// simple hompage whatsware that will lead to login page (When added)
+
 import { useState, useEffect } from "react";
 import whatswareLogo from "./assets/whatsware.svg";
 import "./App.css";
